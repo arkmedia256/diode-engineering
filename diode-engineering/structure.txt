@@ -1,0 +1,11 @@
+diode-engineering/
+├── index.html          (Home page)
+├── about.html          (About Us page)
+├── services.html       (Services page)
+├── projects.html       (Projects page)
+├── contact.html        (Contact page)
+├── css/
+│   └── style.css       (Main stylesheet)
+├── js/
+│   └── main.js         (Main JavaScript)
+└── images/             (All website images)
